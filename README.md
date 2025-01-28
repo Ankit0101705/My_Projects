@@ -14,11 +14,3 @@
 
 ### 5. **Tic Tac Toe Game**
    - A classic Tic Tac Toe game implemented in C.
-
-## Getting Started
-
-To run the programs on your local machine:
-
-1. Clone this repository.
-   ```bash
-   git clone https://github.com/Ankit0101705/My_Projects.git
